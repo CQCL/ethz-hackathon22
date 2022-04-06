@@ -1,4 +1,4 @@
-# QEC Hackathon: Estimating phases with Hadamard Test and Cat States
+# Estimating phases with Hadamard Test and Cat States
 ### ETH Zürich, 8th April - 10th April
 
 As a consequence of the Born rule, quantum measurements typically only

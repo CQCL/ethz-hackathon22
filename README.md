@@ -1,4 +1,4 @@
-# QEC Hackathon: TKET challenge
+# QEC Hackathon: TKET challenges
 
 On behalf of Cambridge Quantum and Quantinuum, welcome to the Quantum Hackathon!
 This little guide should get you started quickly in `pytket`,
