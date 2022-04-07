@@ -99,6 +99,7 @@ and make sure you understand how MCTS can be adapted to fit the routing problem.
 - [tket source code](https://github.com/CQCL/tket/). The C++ and Python source. Feel free to clone and fork!
 - [TKET routing paper](https://arxiv.org/abs/1902.08091). The paper mentioned above describing TKET's routing.
 - [MCTS routing paper](https://arxiv.org/abs/2008.09331). The MCTS routing approach to be implemented.
+- [The routing notebook](https://github.com/CQCL/pytket/blob/main/examples/mapping_example.ipynb). Runs you through the most important aspects of TKET's routing API (also linked in the flow text).
 - [TKET docs](https://cqcl.github.io/tket/tket/api/index.html). The C++ docs -- in theory. This is currently extremely patchy and of limited use, but might give the brave an overview of what is happening under the hood. Give me a shout if you want pointers for where to look.
 
 Best of luck!!
