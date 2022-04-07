@@ -172,6 +172,13 @@ I can recommend
 from the `pytket` documentation
 to read more on executing circuits using quantum computers and simulators.
 
+## Benchmarking
+For the duration of this hackathon, we provide a toolkit that you
+can use for benchmarking your work, along with a database of over 200 circuits.
+It can be found in the `benchmarking` folder.
+This tool is internal to Quantinuum, please DO NOT SHARE outside
+this hackathon and delete it at the end of the weekend.
+
 ## What next?
 This was a first glimpse of the workflow from the design
 of a quantum circuit to its execution.

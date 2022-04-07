@@ -1,0 +1,215 @@
+num qubits,original ID,type,original CZ depth,arch
+2,9c6f6aa0-d667-11ea-9cd7-38f9d36dfbf2,square,6,
+2,9c715f18-d667-11ea-9cd7-38f9d36dfbf2,square,6,
+2,9c7372b2-d667-11ea-9cd7-38f9d36dfbf2,square,6,
+3,9c7f16da-d667-11ea-9cd7-38f9d36dfbf2,square,9,
+3,9c8164e4-d667-11ea-9cd7-38f9d36dfbf2,square,9,
+3,9c83eba6-d667-11ea-9cd7-38f9d36dfbf2,square,9,
+3,9c859668-d667-11ea-9cd7-38f9d36dfbf2,square,9,
+4,9c92658c-d667-11ea-9cd7-38f9d36dfbf2,square,12,
+4,9c9910da-d667-11ea-9cd7-38f9d36dfbf2,square,12,
+4,9c9ef568-d667-11ea-9cd7-38f9d36dfbf2,square,12,
+4,9ca369f4-d667-11ea-9cd7-38f9d36dfbf2,square,12,
+5,9cc306d8-d667-11ea-9cd7-38f9d36dfbf2,square,15,
+5,9ccaaf82-d667-11ea-9cd7-38f9d36dfbf2,square,15,
+5,9ccf9588-d667-11ea-9cd7-38f9d36dfbf2,square,15,
+5,9cd46144-d667-11ea-9cd7-38f9d36dfbf2,square,15,
+6,9cf76d06-d667-11ea-9cd7-38f9d36dfbf2,square,18,
+6,9cffce92-d667-11ea-9cd7-38f9d36dfbf2,square,18,
+6,9d075496-d667-11ea-9cd7-38f9d36dfbf2,square,18,
+6,9d101b08-d667-11ea-9cd7-38f9d36dfbf2,square,18,
+7,9d4cfae6-d667-11ea-9cd7-38f9d36dfbf2,square,21,
+7,9d573e7a-d667-11ea-9cd7-38f9d36dfbf2,square,21,
+7,9d600f00-d667-11ea-9cd7-38f9d36dfbf2,square,21,
+7,9d695100-d667-11ea-9cd7-38f9d36dfbf2,square,21,
+8,9dab98e4-d667-11ea-9cd7-38f9d36dfbf2,square,24,
+8,9dbb3bf0-d667-11ea-9cd7-38f9d36dfbf2,square,24,
+8,9dc924ea-d667-11ea-9cd7-38f9d36dfbf2,square,24,
+8,9dd61ede-d667-11ea-9cd7-38f9d36dfbf2,square,24,
+9,9e35e878-d667-11ea-9cd7-38f9d36dfbf2,square,27,
+9,9e4634a8-d667-11ea-9cd7-38f9d36dfbf2,square,27,
+9,9e5588b8-d667-11ea-9cd7-38f9d36dfbf2,square,27,
+9,9e645780-d667-11ea-9cd7-38f9d36dfbf2,square,27,
+2,000576cc-d668-11ea-8ff5-38f9d36dfbf2,shallow,1,
+2,000ab8f8-d668-11ea-8ff5-38f9d36dfbf2,shallow,1,
+3,0012108a-d668-11ea-8ff5-38f9d36dfbf2,shallow,3,
+3,0012ec1c-d668-11ea-8ff5-38f9d36dfbf2,shallow,2,
+4,001a5dd0-d668-11ea-8ff5-38f9d36dfbf2,shallow,3,
+4,001b7cba-d668-11ea-8ff5-38f9d36dfbf2,shallow,2,
+5,002629d0-d668-11ea-8ff5-38f9d36dfbf2,shallow,5,
+5,00274e82-d668-11ea-8ff5-38f9d36dfbf2,shallow,2,
+6,0032aa0c-d668-11ea-8ff5-38f9d36dfbf2,shallow,4,
+6,0034297c-d668-11ea-8ff5-38f9d36dfbf2,shallow,4,
+6,0035bd96-d668-11ea-8ff5-38f9d36dfbf2,shallow,4,
+6,00376f60-d668-11ea-8ff5-38f9d36dfbf2,shallow,4,
+7,00411240-d668-11ea-8ff5-38f9d36dfbf2,shallow,4,
+7,0042d012-d668-11ea-8ff5-38f9d36dfbf2,shallow,4,
+7,00449d8e-d668-11ea-8ff5-38f9d36dfbf2,shallow,5,
+8,005066d2-d668-11ea-8ff5-38f9d36dfbf2,shallow,7,
+8,00524ef2-d668-11ea-8ff5-38f9d36dfbf2,shallow,8,
+8,0058004a-d668-11ea-8ff5-38f9d36dfbf2,shallow,6,
+8,00599a7c-d668-11ea-8ff5-38f9d36dfbf2,shallow,5,
+9,006d2a56-d668-11ea-8ff5-38f9d36dfbf2,shallow,5,
+9,008fdccc-d668-11ea-8ff5-38f9d36dfbf2,shallow,5,
+9,00a1d576-d668-11ea-8ff5-38f9d36dfbf2,shallow,4,
+9,00b09994-d668-11ea-8ff5-38f9d36dfbf2,shallow,6,
+2,3ac93e10-d668-11ea-a4be-38f9d36dfbf2,deep,12,
+2,3acc9826-d668-11ea-a4be-38f9d36dfbf2,deep,2,
+2,3ace8514-d668-11ea-a4be-38f9d36dfbf2,deep,8,
+2,3ad754c8-d668-11ea-a4be-38f9d36dfbf2,deep,8,
+3,3ad90d4a-d668-11ea-a4be-38f9d36dfbf2,deep,28,
+3,3adc9d70-d668-11ea-a4be-38f9d36dfbf2,deep,28,
+4,3af3b082-d668-11ea-a4be-38f9d36dfbf2,deep,68,
+4,3b00e7fc-d668-11ea-a4be-38f9d36dfbf2,deep,45,
+4,3b06e9c2-d668-11ea-a4be-38f9d36dfbf2,deep,54,
+5,3b418c3a-d668-11ea-a4be-38f9d36dfbf2,deep,91,
+5,3b4c530e-d668-11ea-a4be-38f9d36dfbf2,deep,78,
+6,3b8f3214-d668-11ea-a4be-38f9d36dfbf2,deep,124,
+6,3b9bab70-d668-11ea-a4be-38f9d36dfbf2,deep,140,
+6,3ba75632-d668-11ea-a4be-38f9d36dfbf2,deep,143,
+7,3c073228-d668-11ea-a4be-38f9d36dfbf2,deep,188,
+7,3c19d2e8-d668-11ea-a4be-38f9d36dfbf2,deep,172,
+7,3c2f9006-d668-11ea-a4be-38f9d36dfbf2,deep,179,
+7,3c40a198-d668-11ea-a4be-38f9d36dfbf2,deep,171,
+7,3c507e56-d668-11ea-a4be-38f9d36dfbf2,deep,167,
+8,3cbb7026-d668-11ea-a4be-38f9d36dfbf2,deep,226,
+8,3cd2be3e-d668-11ea-a4be-38f9d36dfbf2,deep,212,
+8,3ce86e8c-d668-11ea-a4be-38f9d36dfbf2,deep,219,
+8,3cfe832a-d668-11ea-a4be-38f9d36dfbf2,deep,216,
+9,3d9d5e14-d668-11ea-a4be-38f9d36dfbf2,deep,302,
+9,3dbc6854-d668-11ea-a4be-38f9d36dfbf2,deep,318,
+9,3dda112e-d668-11ea-a4be-38f9d36dfbf2,deep,304,
+9,3df6efce-d668-11ea-a4be-38f9d36dfbf2,deep,295,
+2,c0ff620c-d668-11ea-b966-38f9d36dfbf2,basis rotation,6,
+2,c1025642-d668-11ea-b966-38f9d36dfbf2,basis rotation,6,
+4,c10d9cd2-d668-11ea-b966-38f9d36dfbf2,basis rotation,18,
+4,c111350e-d668-11ea-b966-38f9d36dfbf2,basis rotation,18,
+4,c1154540-d668-11ea-b966-38f9d36dfbf2,basis rotation,18,
+4,c118ad0c-d668-11ea-b966-38f9d36dfbf2,basis rotation,18,
+4,c11bd00e-d668-11ea-b966-38f9d36dfbf2,basis rotation,18,
+6,c1310280-d668-11ea-b966-38f9d36dfbf2,basis rotation,30,
+6,c13a3f4e-d668-11ea-b966-38f9d36dfbf2,basis rotation,30,
+6,c14303d6-d668-11ea-b966-38f9d36dfbf2,basis rotation,30,
+8,c1803c1a-d668-11ea-b966-38f9d36dfbf2,basis rotation,42,
+8,c18e3ee6-d668-11ea-b966-38f9d36dfbf2,basis rotation,42,
+8,c199c810-d668-11ea-b966-38f9d36dfbf2,basis rotation,42,
+8,c1a590be-d668-11ea-b966-38f9d36dfbf2,basis rotation,42,
+4,018b67a8-d669-11ea-8a28-38f9d36dfbf2,qaoa,22,
+4,01900a2e-d669-11ea-8a28-38f9d36dfbf2,qaoa,22,
+4,01928006-d669-11ea-8a28-38f9d36dfbf2,qaoa,22,
+4,019485fe-d669-11ea-8a28-38f9d36dfbf2,qaoa,22,
+6,01adcd70-d669-11ea-8a28-38f9d36dfbf2,qaoa,22,
+6,01b07656-d669-11ea-8a28-38f9d36dfbf2,qaoa,20,
+6,01b35718-d669-11ea-8a28-38f9d36dfbf2,qaoa,20,
+8,01d2d00c-d669-11ea-8a28-38f9d36dfbf2,qaoa,24,
+8,01d72efe-d669-11ea-8a28-38f9d36dfbf2,qaoa,26,
+8,01db4bc4-d669-11ea-8a28-38f9d36dfbf2,qaoa,30,
+10,02065a08-d669-11ea-8a28-38f9d36dfbf2,qaoa,28,
+10,020b2722-d669-11ea-8a28-38f9d36dfbf2,qaoa,24,
+10,020fcebc-d669-11ea-8a28-38f9d36dfbf2,qaoa,26,
+3,5c84b908-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,40,ibmq_16_melbourne
+3,5c862ffe-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,40,ibmq_16_melbourne
+3,5c879f74-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,40,ibmq_16_melbourne
+6,5c97bd5a-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,40,ibmq_16_melbourne
+6,5c9d805a-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,40,ibmq_16_melbourne
+6,5ca3b722-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,40,ibmq_16_melbourne
+6,5ca88770-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,40,ibmq_16_melbourne
+6,5cad21f4-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,40,ibmq_16_melbourne
+9,5cdc2d64-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,40,ibmq_16_melbourne
+9,5ce75e0a-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,40,ibmq_16_melbourne
+9,5cf1f64e-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,40,ibmq_16_melbourne
+9,5cfdc532-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,40,ibmq_16_melbourne
+12,5d6994f6-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,40,ibmq_16_melbourne
+12,5d7d912c-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,40,ibmq_16_melbourne
+12,5d932212-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,40,ibmq_16_melbourne
+12,5da6d3e8-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,40,ibmq_16_melbourne
+3,5e226198-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,80,ibmq_16_melbourne
+3,5e24fd40-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,80,ibmq_16_melbourne
+3,5e27cafc-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,80,ibmq_16_melbourne
+6,5e78b02a-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,80,ibmq_16_melbourne
+6,5e823c08-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,80,ibmq_16_melbourne
+9,5e8bbb3e-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,80,ibmq_16_melbourne
+9,5ea46210-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,80,ibmq_16_melbourne
+9,5ebedd5c-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,80,ibmq_16_melbourne
+9,5edc31ea-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,80,ibmq_16_melbourne
+9,5efb025a-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,80,ibmq_16_melbourne
+12,600c4154-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,80,ibmq_16_melbourne
+12,6033341c-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,80,ibmq_16_melbourne
+12,605b0dd4-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,80,ibmq_16_melbourne
+12,608594be-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,80,ibmq_16_melbourne
+3,615f198c-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,120,ibmq_16_melbourne
+3,6163a740-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,120,ibmq_16_melbourne
+3,6167ce1a-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,120,ibmq_16_melbourne
+3,616bc9d4-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,120,ibmq_16_melbourne
+6,61b75f70-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,120,ibmq_16_melbourne
+6,61c6aea8-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,120,ibmq_16_melbourne
+6,61d68d50-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,120,ibmq_16_melbourne
+6,61e3de6a-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,120,ibmq_16_melbourne
+9,63016a74-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,120,ibmq_16_melbourne
+9,632268f0-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,120,ibmq_16_melbourne
+9,63430862-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,120,ibmq_16_melbourne
+9,63646cdc-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,120,ibmq_16_melbourne
+12,65329106-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,120,ibmq_16_melbourne
+12,6587b47e-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,120,ibmq_16_melbourne
+12,65c5368c-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,120,ibmq_16_melbourne
+3,6624faa4-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,160,ibmq_16_melbourne
+3,662aee78-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,160,ibmq_16_melbourne
+6,66cc01d2-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,160,ibmq_16_melbourne
+6,66e39716-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,160,ibmq_16_melbourne
+6,66f7a328-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,160,ibmq_16_melbourne
+9,68627fa8-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,160,ibmq_16_melbourne
+9,68a57eb6-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,160,ibmq_16_melbourne
+9,68d373ac-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,160,ibmq_16_melbourne
+12,6ae706c2-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,160,ibmq_16_melbourne
+12,6b3f1420-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,160,ibmq_16_melbourne
+12,6ba3223a-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,160,ibmq_16_melbourne
+12,6bf2605c-e6f8-11ea-a9d5-38f9d36dfbf2,known optimal,160,ibmq_16_melbourne
+3,88094a12-e6f8-11ea-a558-38f9d36dfbf2,known optimal,40,ibmq_singapore
+3,880b1fae-e6f8-11ea-a558-38f9d36dfbf2,known optimal,40,ibmq_singapore
+3,880d4950-e6f8-11ea-a558-38f9d36dfbf2,known optimal,40,ibmq_singapore
+3,880f655a-e6f8-11ea-a558-38f9d36dfbf2,known optimal,40,ibmq_singapore
+6,882e04ba-e6f8-11ea-a558-38f9d36dfbf2,known optimal,40,ibmq_singapore
+6,8833d7be-e6f8-11ea-a558-38f9d36dfbf2,known optimal,40,ibmq_singapore
+6,883d96e6-e6f8-11ea-a558-38f9d36dfbf2,known optimal,40,ibmq_singapore
+6,88460006-e6f8-11ea-a558-38f9d36dfbf2,known optimal,40,ibmq_singapore
+9,889201c2-e6f8-11ea-a558-38f9d36dfbf2,known optimal,40,ibmq_singapore
+9,889be9ee-e6f8-11ea-a558-38f9d36dfbf2,known optimal,40,ibmq_singapore
+9,88a5fd76-e6f8-11ea-a558-38f9d36dfbf2,known optimal,40,ibmq_singapore
+12,8985b18c-e6f8-11ea-a558-38f9d36dfbf2,known optimal,40,ibmq_singapore
+12,89985c10-e6f8-11ea-a558-38f9d36dfbf2,known optimal,40,ibmq_singapore
+3,89d06790-e6f8-11ea-a558-38f9d36dfbf2,known optimal,80,ibmq_singapore
+3,89d35964-e6f8-11ea-a558-38f9d36dfbf2,known optimal,80,ibmq_singapore
+6,8a25e8dc-e6f8-11ea-a558-38f9d36dfbf2,known optimal,80,ibmq_singapore
+6,8a2ef648-e6f8-11ea-a558-38f9d36dfbf2,known optimal,80,ibmq_singapore
+6,8a38b656-e6f8-11ea-a558-38f9d36dfbf2,known optimal,80,ibmq_singapore
+9,8a4221a0-e6f8-11ea-a558-38f9d36dfbf2,known optimal,80,ibmq_singapore
+9,8a598b24-e6f8-11ea-a558-38f9d36dfbf2,known optimal,80,ibmq_singapore
+9,8a713c9c-e6f8-11ea-a558-38f9d36dfbf2,known optimal,80,ibmq_singapore
+12,8b8fe29a-e6f8-11ea-a558-38f9d36dfbf2,known optimal,80,ibmq_singapore
+12,8bb7050a-e6f8-11ea-a558-38f9d36dfbf2,known optimal,80,ibmq_singapore
+12,8bdd9288-e6f8-11ea-a558-38f9d36dfbf2,known optimal,80,ibmq_singapore
+12,8c184478-e6f8-11ea-a558-38f9d36dfbf2,known optimal,80,ibmq_singapore
+3,8cd5a5fe-e6f8-11ea-a558-38f9d36dfbf2,known optimal,120,ibmq_singapore
+3,8cd9d0ca-e6f8-11ea-a558-38f9d36dfbf2,known optimal,120,ibmq_singapore
+3,8cde344e-e6f8-11ea-a558-38f9d36dfbf2,known optimal,120,ibmq_singapore
+6,8ce2c590-e6f8-11ea-a558-38f9d36dfbf2,known optimal,120,ibmq_singapore
+6,8cf14674-e6f8-11ea-a558-38f9d36dfbf2,known optimal,120,ibmq_singapore
+6,8cfffe6c-e6f8-11ea-a558-38f9d36dfbf2,known optimal,120,ibmq_singapore
+6,8d0ffd12-e6f8-11ea-a558-38f9d36dfbf2,known optimal,120,ibmq_singapore
+9,8db9cce8-e6f8-11ea-a558-38f9d36dfbf2,known optimal,120,ibmq_singapore
+9,8dd94e1a-e6f8-11ea-a558-38f9d36dfbf2,known optimal,120,ibmq_singapore
+9,8dfa96f6-e6f8-11ea-a558-38f9d36dfbf2,known optimal,120,ibmq_singapore
+9,8e1b5db4-e6f8-11ea-a558-38f9d36dfbf2,known optimal,120,ibmq_singapore
+9,8e3afcdc-e6f8-11ea-a558-38f9d36dfbf2,known optimal,120,ibmq_singapore
+3,91233068-e6f8-11ea-a558-38f9d36dfbf2,known optimal,160,ibmq_singapore
+3,912939e0-e6f8-11ea-a558-38f9d36dfbf2,known optimal,160,ibmq_singapore
+3,912eca04-e6f8-11ea-a558-38f9d36dfbf2,known optimal,160,ibmq_singapore
+3,9134c3b4-e6f8-11ea-a558-38f9d36dfbf2,known optimal,160,ibmq_singapore
+6,91eaa648-e6f8-11ea-a558-38f9d36dfbf2,known optimal,160,ibmq_singapore
+6,9201b158-e6f8-11ea-a558-38f9d36dfbf2,known optimal,160,ibmq_singapore
+9,937969f4-e6f8-11ea-a558-38f9d36dfbf2,known optimal,160,ibmq_singapore
+9,93a33e1e-e6f8-11ea-a558-38f9d36dfbf2,known optimal,160,ibmq_singapore
+9,93ceee38-e6f8-11ea-a558-38f9d36dfbf2,known optimal,160,ibmq_singapore
+12,96515a10-e6f8-11ea-a558-38f9d36dfbf2,known optimal,160,ibmq_singapore
+12,96a136a2-e6f8-11ea-a558-38f9d36dfbf2,known optimal,160,ibmq_singapore
+12,96f19a84-e6f8-11ea-a558-38f9d36dfbf2,known optimal,160,ibmq_singapore

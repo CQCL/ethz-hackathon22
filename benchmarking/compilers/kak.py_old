@@ -1,0 +1,56 @@
+from .compiler import Compiler
+from .pytket   import PytketCompiler
+from pytket.routing import Architecture
+from pytket.device import Device
+# from typing import List
+from pytket.passes import FullPeepholeOptimise, DefaultMappingPass, RoutingPass, PlacementPass, FullMappingPass, RebaseQuil, PauliSimp, KAKDecomposition
+from pytket import Circuit
+import pkg_resources
+from utils import load_coupling, post_process
+import time
+
+def KAKCompilerFactory(cx_fidelity = 1.):
+    if cx_fidelity == 1.:
+        name = "kak"
+    else:
+        name = f"kak_{round(cx_fidelity * 1000)}"
+
+    class KAKCompiler(PytketCompiler):
+        compiler_id = name
+        fidelity = cx_fidelity
+
+        def __init__(self, backend_name, optimising=True):
+
+            self.version = pkg_resources.get_distribution("pytket").version
+            self.optimising = optimising
+
+            if self.optimising:
+                self.name = f"KAK optimising fid = {self.fidelity}"
+            else:
+                self.name = "non-optimising pytket"
+            self.backend_name = backend_name
+            self.coupling_map = load_coupling(backend_name) 
+            
+            arch = Architecture(self.coupling_map)
+            self.device = Device(arch)
+
+        def compile(self, orig_circ:Circuit) -> Circuit:
+
+            circ = orig_circ.copy()
+
+            start_time = time.time()
+            if self.optimising:
+                FullPeepholeOptimise(self.fidelity).apply(circ)
+            DefaultMappingPass(self.device).apply(circ)
+            time_elapsed = time.time() - start_time
+
+            RebaseQuil().apply(circ)
+
+            if self.optimising:
+                circ = post_process(circ)
+        
+            return circ, time_elapsed
+
+    return KAKCompiler
+
+exports_compilers = [KAKCompilerFactory(1.), KAKCompilerFactory(.9975), KAKCompilerFactory(.995), KAKCompilerFactory(.9925), KAKCompilerFactory(.99)]
