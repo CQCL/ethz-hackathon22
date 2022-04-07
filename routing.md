@@ -46,6 +46,7 @@ a simple problem.
 > Use `RoutingMethodCircuit` and `MappingManager` to define a simple routing
 > algorithm that for each two-qubit gate adds swaps so that the two qubits
 > are neighbours.
+> You can use any placement method to start with (`LinePlacement` or `GraphPlacement` will do).
 > How does this perform? Can you keep a state between calls to your routing
 > strategy? Can you use it for anything?
 
